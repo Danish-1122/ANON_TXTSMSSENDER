@@ -1,0 +1,3 @@
+Pkg install git
+cd ANON_SMSTXTSENDER
+bash anon_txtsmssender.sh
