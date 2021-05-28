@@ -4,6 +4,8 @@ first install termux from playstore and copy paste the commands below
 
 $ pkg install git.
 
+$ git clone https://github.com/Danish-1122/ANON_TXTSMSSENDER
+
 $ cd ANON_TXTSMSSENDER.
 
 $ bash anon_txtsmssender.sh
