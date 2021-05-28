@@ -6,6 +6,8 @@ $ pkg install git.
 
 $ git clone https://github.com/Danish-1122/ANON_TXTSMSSENDER
 
+$ chmod +x anon_txtsmssender.sh
+
 $ cd ANON_TXTSMSSENDER.
 
 $ bash anon_txtsmssender.sh
